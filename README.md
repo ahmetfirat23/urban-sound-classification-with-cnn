@@ -19,7 +19,8 @@ Then mel spectrogram images were converted into black and white, applied histogr
 
 ## Model
 
-Different set of hyperparameters were tested to maximize validation accuracy. For better results it might be helpful to use more information from sounds or use different set of preprocessing operations.
+Different set of hyperparameters were tested to maximize validation accuracy. For better results it might be helpful to use more information from sounds or use different set of preprocessing operations.\
+\
 ![Model](https://raw.githubusercontent.com/ahmetfirat23/urban-sound-classification-with-cnn/main/results/model.png)
 
   
