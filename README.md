@@ -32,5 +32,6 @@ Average validation accuracy of the model is : 0.63\
 Maximum validation accuracy of the model is : 0.69\
 Minimum validation accuracy of the model is: 0.57\
 \
+Confusion matrices for each split can be examined in results folder.\
 Linear plots of accuracy against epochs for both train and validation sets are included in neuralnetwork.ipynb file.
   
